@@ -8,13 +8,7 @@ class Book
     @title
   end
   
-  def author 
-    
-  end 
-  
-  def page_count 
-    
-  end 
+  attr_accessor
   
 end 
 
