@@ -8,7 +8,7 @@ class Book
     @title
   end
   
-  attr_accessor
+  attr_accessor :
   
 end 
 
